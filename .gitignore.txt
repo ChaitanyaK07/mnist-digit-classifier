@@ -1,0 +1,14 @@
+# dataset downloaded by torchvision
+data/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environment
+venv/
+env/
+
+# generated plots
+accuracy_plot.png
